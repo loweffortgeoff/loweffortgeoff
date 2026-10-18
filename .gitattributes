@@ -1,0 +1,3 @@
+# Keep the generated-image pipeline out of the repo's language stats.
+scripts/*.mjs linguist-detectable=false
+*.png binary
