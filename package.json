@@ -1,0 +1,10 @@
+{
+  "name": "loweffortgeoff-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GitHub profile README for loweffortgeoff",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}

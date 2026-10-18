@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "aislewise",
+      "name": "AisleWise",
+      "tagline": "A grocery list that starts with your camera. Scan items, track spend by store.",
+      "chips": ["Lists", "Barcode + receipt", "Budgets"],
+      "url": "https://apps.apple.com/app/id6755057084",
+      "icon": "assets/icons/aislewise.png",
+      "accent": "#1F7A78",
+      "status": "App Store"
+    },
+    {
+      "id": "tasked",
+      "name": "Task(ed)",
+      "tagline": "Say what you need to do. Dates, priorities, and lists sort themselves out.",
+      "chips": ["Voice capture", "Recurring", "Widgets"],
+      "url": "https://apps.apple.com/app/id6755186421",
+      "icon": "assets/icons/tasked.png",
+      "accent": "#7852AA",
+      "status": "App Store"
+    },
+    {
+      "id": "everypaw",
+      "name": "EveryPaw",
+      "tagline": "Medications, meals, weight, and vet records for your pets, in one place.",
+      "chips": ["Care Today", "Health records", "Widgets"],
+      "url": "https://apps.apple.com/app/id6754781167",
+      "icon": "assets/icons/everypaw.png",
+      "accent": "#C87552",
+      "status": "App Store"
+    },
+    {
+      "id": "weather-in-words",
+      "name": "Weather in Words",
+      "tagline": "Weather written in prose instead of numbers and icons.",
+      "chips": ["Prose forecasts", "Widgets", "Free"],
+      "url": "https://apps.apple.com/app/id6806063498",
+      "icon": "assets/icons/weather.png",
+      "accent": "#5B87A8",
+      "status": "App Store"
+    },
+    {
+      "id": "tucked",
+      "name": "Tucked",
+      "tagline": "A local-first bookmark manager for iPhone, iPad, and Mac.",
+      "chips": ["SwiftData", "CloudKit", "Share Sheet"],
+      "url": "https://github.com/loweffortgeoff/Bookmark-Collections",
+      "icon": "assets/icons/tucked.png",
+      "accent": "#A8763E",
+      "status": "In development"
+    },
+    {
+      "id": "offshoots",
+      "name": "Offshoots",
+      "tagline": "Log a decision, predict the outcome, then learn from what actually happened.",
+      "chips": ["Insights", "Revisits", "Local-only"],
+      "url": "https://github.com/loweffortgeoff/Offshoots",
+      "icon": "assets/icons/offshoots.png",
+      "accent": "#5C7C5A",
+      "status": "In development"
+    }
+  ]
+}
