@@ -46,20 +46,20 @@
       "name": "Tucked",
       "tagline": "A local-first bookmark manager for iPhone, iPad, and Mac.",
       "chips": ["SwiftData", "CloudKit", "Share Sheet"],
-      "url": "https://github.com/loweffortgeoff/Bookmark-Collections",
+      "url": "https://apps.apple.com/app/tucked-stuff-for-whenever/id6792490401",
       "icon": "assets/icons/tucked.png",
       "accent": "#A8763E",
-      "status": "In development"
+      "status": "App Store"
     },
     {
       "id": "offshoots",
       "name": "Offshoots",
       "tagline": "Log a decision, predict the outcome, then learn from what actually happened.",
       "chips": ["Insights", "Revisits", "Local-only"],
-      "url": "https://github.com/loweffortgeoff/Offshoots",
+      "url": "https://apps.apple.com/app/offshoots/id6757363128",
       "icon": "assets/icons/offshoots.png",
       "accent": "#5C7C5A",
-      "status": "In development"
+      "status": "AppStore"
     }
   ]
 }
